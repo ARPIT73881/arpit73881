@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web-App<br>👯 I’m looking to collaborate on any projects regarding Web Development<br>🤝 I’m looking for help with Web Development and Three.js<br>🌱 I’m currently learning JavaScript , React , Three Js<br>💬 Ask me about Web Development , Coding related stuff<br><br>⚡ Professional Summary <br>⦿ Energetic B.Tech CSE student driven by curiosity and passion for software development. <br>⦿ Dedicated to making<br>meaningful contributions in the tech industry. <br>⦿ Seeking hands-on experience and professional growth in a<br>dynamic environment. <br>⦿ Proficient in building dynamic web applications .<br>
+🔭 I’m currently working on Full-Stack Web-App<br>👯 I’m looking to collaborate on any projects regarding Web Development<br>🤝 I’m looking for help with Web Development and Three.js<br>🌱 I’m currently learning JavaScript , React , Three Js<br>💬 Ask me about Web Development , Coding related stuff<br><br>⚡ Professional Summary <br> Energetic B.Tech CSE student driven by curiosity and passion for software development .Dedicated to making meaningful contributions in the tech industry. Seeking hands-on experience and professional growth in a dynamic environment. Proficient in building dynamic web applications.<br>
 
 
 ## 🌐 Socials:
