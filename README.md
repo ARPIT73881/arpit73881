@@ -1,7 +1,7 @@
 [![MasterHead](https://images.wallpapersden.com/image/download/linux-power-user-hd-anime-art_bmZoZ2WUmZqaraWkpJRnamtlrWZlbWU.jpg)](https://arpit-webdev.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3><br>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **JavaScript , React , Three Js**
 
-- 👯 I’m looking to collaborate on **any projects regarding Web Development**
 
 - 🤝 I’m looking for help with **Web Development and Three.js**
 
