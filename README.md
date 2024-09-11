@@ -1,4 +1,4 @@
-[![](https://i.ibb.co/X7b0Z67/Main-Cover.png)](https://getarpit.netlify.app)
+<a href="https://ibb.co/N9sD6f9" target="_blank"><img src="https://i.ibb.co/X7b0Z67/Main-Cover.png" alt="Main-Cover" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-  <a href="https://getarpit.netlify.app"><img src="https://i.ibb.co/yhxMrFn/gifimage.png" alt="gif" border="0" width="350" height="350"></a> 
+  <a href="https://getarpit.netlify.app" target="_blank"><img src="https://i.ibb.co/yhxMrFn/gifimage.png" alt="gif" border="0" width="325" height="275"></a> 
   </td>
 
   [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
