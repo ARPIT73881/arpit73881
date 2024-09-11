@@ -1,4 +1,4 @@
-<a href="https://ibb.co/N9sD6f9" target="_blank"><img src="https://i.ibb.co/X7b0Z67/Main-Cover.png" alt="Main-Cover" border="0"></a>
+<a href="https://getarpit.netlify.app" target="_blank"><img src="https://i.ibb.co/X7b0Z67/Main-Cover.png" alt="Main-Cover" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
