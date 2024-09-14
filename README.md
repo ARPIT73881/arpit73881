@@ -2,14 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-<br>
+<h3 align="center">A passionate frontend developer from India</h3><br>
 
-<a href="https://getarpit.netlify.app" target="_blank"><img align="right" src="https://github.com/user-attachments/assets/9d77414c-3505-4eea-b4fb-fc7f984ccdc3 " alt="Main-Cover" border="0" width="350" height="325" ></a>
+<a href="https://getarpit.netlify.app" target="_blank"><img align="right" src="https://github.com/user-attachments/assets/71d44d73-f8aa-4e4c-8be0-688f7e9ab6ee" alt="Main-Cover" border="0" width="350" height="325" ></a>
 
   [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
   
-  - 🔭 I’m currently working on **Crypto Tracker Full Stack Web-App**  
+  - 🔭 I’m currently working on **The Wild Oasis Web-App**  
     
 - 🌱 I’m currently learning **JavaScript , React , Three.js**
 
@@ -55,11 +54,12 @@
 <br>
 
 ## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpit73881&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpit73881&theme=dark&hide_border=false)<br/>
+<br/>
 <br>
 
 
