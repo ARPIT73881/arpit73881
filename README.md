@@ -4,11 +4,11 @@
 
 <h3 align="center">A passionate frontend developer from India</h3><br>
 
-<a href="https://getarpit.netlify.app" target="_blank"><img align="right" src="https://github.com/user-attachments/assets/71d44d73-f8aa-4e4c-8be0-688f7e9ab6ee" alt="Main-Cover" border="0" width="350" height="325" ></a>
+<a href="https://getarpit.netlify.app" target="_blank"><img align="right" src="https://github.com/user-attachments/assets/d714e366-56fc-47f1-9471-206a81842659 " alt="Main-Cover" border="0" width="350" height="325" ></a>
 
   [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
   
-  - 🔭 I’m currently working on **The Wild Oasis Web-App**  
+  - 🔭 I’m currently working on **Full Stack Web-App**  
     
 - 🌱 I’m currently learning **JavaScript , React , Three.js**
 
