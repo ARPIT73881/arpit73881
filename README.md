@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3><br>
 
-<a href="https://getarpit.netlify.app" target="_blank"><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhpdnFpYnZiem1pbG9zc2ZlMWlsMno0czVxMXJlanYwMDR0dzZneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.webp" alt="Main-Cover" border="0" width="350" height="325" ></a>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhpdnFpYnZiem1pbG9zc2ZlMWlsMno0czVxMXJlanYwMDR0dzZneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.webp" alt="Main-Cover" border="0" width="350" height="325" >
 
   [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
   
