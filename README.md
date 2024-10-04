@@ -8,7 +8,7 @@
 
 </div>
 <a href="https://getarpit.netlify.app" target="_blank">
-<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="350" height="245">
+<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="300" height="240">
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -21,7 +21,7 @@
 - 📫 How to reach me **as.73881@gmail.com**
 - ⚡ Motto ```First do it, then do it right, then do it better.```
 
-### 💻 Languages & Frameworks :  
+### Languages & Frameworks :  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -36,7 +36,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 🔧 Technologies & Tools :
+### Technologies & Tools :
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -61,7 +61,7 @@
 ![Vs Code](https://img.shields.io/badge/Vs%20Code-%2300599C.svg?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23593d88.svg?style=for-the-badge)
 
-### 📊 GitHub Stats :
+### GitHub Stats :
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit73881&theme=dark&hide_border=false" height= 170>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height= 170>
@@ -71,5 +71,5 @@
 <img  src="https://github-contributor-stats.vercel.app/api?username=arpit73881&limit=5&theme=dark&combine_all_yearly_contributions=true" height= 180>
 </div>
 
-### 🏆 GitHub Trophies :
-<img src="https://github-profile-trophy.vercel.app/?username=arpit73881&margin-w=6&theme=radical" height=90>
+### GitHub Trophies :
+<img src="https://github-profile-trophy.vercel.app/?username=arpit73881&margin-w=4&theme=radical" height=90>
