@@ -1,14 +1,14 @@
 <div align="center"> 
   
 # Hi 👋, I'm Arpit Sharma 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arpit73881) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpit73881) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit73881) &nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arpit73881)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpit73881)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit73881)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22618631) 
 
 </div>
 <a href="https://getarpit.netlify.app" target="_blank">
-<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="375" height="245">
+<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="350" height="245">
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -63,13 +63,13 @@
 
 ### 📊 GitHub Stats :
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit73881&theme=dark&hide_border=false" height= 190>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height= 190>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit73881&theme=dark&hide_border=false" height= 170>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height= 170>
 </div>
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height= 200>
-<img  src="https://github-contributor-stats.vercel.app/api?username=arpit73881&limit=5&theme=dark&combine_all_yearly_contributions=true" height= 200>
+<img  src="https://github-readme-stats.vercel.app/api?username=arpit73881&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height= 180>
+<img  src="https://github-contributor-stats.vercel.app/api?username=arpit73881&limit=5&theme=dark&combine_all_yearly_contributions=true" height= 180>
 </div>
 
 ### 🏆 GitHub Trophies :
-<img src="https://github-profile-trophy.vercel.app/?username=arpit73881&margin-w=8&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=arpit73881&margin-w=6&theme=radical" height=90>
