@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Main-Cover" width="435" height="325">
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Main-Cover" width="430" height="325">
 
 [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -28,7 +28,7 @@
 
 📫 &nbsp; **Reach me at : &nbsp; as.73881@gmail.com**
 
-⚡ &nbsp; **Motto : &nbsp; ```First do it, then do it right, then do it better.```**
+⚡ &nbsp; **```First do it, then do it right, then do it better.```**
 
 <br>
 
