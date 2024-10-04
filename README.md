@@ -13,13 +13,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Build your own Redis using C/C++**  
-- 🌱 I’m currently learning **JavaScript , React , Three.js**
-- 🤝 I’m looking for help with **Web Development and Three.js**
-- 👯 I’m looking to collaborate on **projects regarding Web Development**
-- 💬 Ask me about **Web Development , Coding related stuff**
-- 📫 How to reach me **as.73881@gmail.com**
-- ⚡ Motto ```First do it, then do it right, then do it better.```
+ 🔭 &nbsp; I’m currently working on **Build your own Redis using C/C++** <br>
+ 🌱 &nbsp; I’m currently learning **JavaScript , React , Three.js** <br>
+ 🤝 &nbsp; I’m looking for help with **Web Development and Three.js** <br>
+ 👯 &nbsp; I’m looking to collaborate on **projects regarding Web Development** <br>
+ 💬 &nbsp; Ask me about **Web Development , Coding related stuff** <br>
+ 📫 &nbsp; How to reach me **as.73881@gmail.com** <br>
+ ⚡ &nbsp; Motto ```First do it, then do it right, then do it better.```
 
 ### Languages & Frameworks :  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
