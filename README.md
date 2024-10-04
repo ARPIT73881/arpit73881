@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://animaniacos.com/images/gifs/lineas/web/wwwl0021.gif" height=125 >
+<a href="https://getarpit.netlify.app" target="_blank">
+<img src="https://github.com/user-attachments/assets/fd7d6cc0-7ff4-42e7-b78c-e65ad4eaaee1" alt="Banner">
+</a>
  
 # Hi 👋, I'm Arpit Sharma 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/arpit73881)
@@ -10,9 +12,7 @@
 </div>
 <br>
 
-<a href="https://getarpit.netlify.app" target="_blank">
-<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="350" height="325" >
-</a>
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Main-Cover" border="0" width="375" height="325" >
 
 [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
   
