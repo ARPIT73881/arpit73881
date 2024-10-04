@@ -1,7 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/8412e1e4-925e-401f-b62c-f74324d83df2)
- 
 <div align="center">
-  
+<img src="https://animaniacos.com/images/gifs/lineas/web/wwwl0021.gif" height=125 >
+ 
 # Hi 👋, I'm Arpit Sharma 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/arpit73881)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arpit73881)
