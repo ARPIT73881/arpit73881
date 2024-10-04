@@ -8,7 +8,7 @@
 
 </div>
 <a href="https://getarpit.netlify.app" target="_blank">
-<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="300" height="240">
+<img align="right" src="https://github.com/user-attachments/assets/8f8e25db-8a4c-42e0-98ef-df9af3fcf44e" alt="Main-Cover" border="0" width="300" height="220">
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=arpit73881&icon=0&color=0)](https://visitcount.itsvg.in)
