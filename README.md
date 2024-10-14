@@ -18,9 +18,9 @@
 
 🔭 &nbsp; **I’m currently working on Something Cool 😉**
 
-🌱 &nbsp; **Currently learning Full Stack**
+🌱 &nbsp; **Currently learning Full Stack and Three.js**
 
-🤝 &nbsp; **Looking for help with Web Developmen**
+🤝 &nbsp; **Looking for help with Web Development**
 
 👯 &nbsp; **Open to collaboration on Open-source projects**
 
